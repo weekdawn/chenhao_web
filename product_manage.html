@@ -151,36 +151,33 @@
 
         function show_table(price_rate) {
             let type = $("#type_select_query option:selected").text();
-            let typedata, showdata;//typedata 所有数据， showdata展示数据
-            typedata = {
-                "RVV":[
-                    ["2×0.3",	0.1, 	29.1, 	23.30, 	52.4],
-                    ["2×0.4",	0.2, 	29.1, 	23.30, 	52.4],
-                    ["2×0.5",	0.3, 	29.1, 	23.30, 	52.4],
-                    ["2×0.6",	0.5362334208, 	29.1, 	23.30, 	52.4],
-                ],
-            };
-            showdata = typedata[type];
-            for(let i in showdata){
-                let item = showdata[i];
-                let specs = item[0];
-                let weight = item[1];
-                let price;
-                if(price_rate == 0){
-                    price = item[2];
-                }else {
-                    price = weight * price_rate;
-                }
-                let other_price = item[3];
-                let final_cost = price + other_price;
-                let td_unit = "<tr><td>" +
-                    specs + "</td><td>" +
-                    weight.toFixed(2) + "</td><td>" +
-                    price.toFixed(1) + "</td><td>" +
-                    other_price + "</td><td>" +
-                    final_cost.toFixed(1) + "</td></tr>";
-                $("#datalist").append(td_unit);
+            type = type.toLowerCase();
+            if(type != "选择型号"){
+                $.getJSON("./json/" + type + ".json", function (data) {
+                    $.each(data, function (i, item) {
+                        $.each(item, function (j, i_item) {
+                            let specs = i_item["specs"];
+                            let weight = parseFloat(i_item["weight"]);
+                            let price;
+                            if(price_rate == 0){
+                                price = parseFloat(i_item["price"]);
+                            }else {
+                                price = weight * price_rate;
+                            }
+                            let other_price = parseFloat(i_item["other_price"]);
+                            let final_cost = price + other_price;
+                            let td_unit = "<tr><td>" +
+                                specs + "</td><td>" +
+                                weight.toFixed(2) + "</td><td>" +
+                                price.toFixed(1) + "</td><td>" +
+                                other_price.toFixed(2) + "</td><td>" +
+                                final_cost.toFixed(1) + "</td></tr>";
+                            $("#datalist").append(td_unit);
+                        });
+                    })
+                });
             }
+
         }
     });
 </script>
