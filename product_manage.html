@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>成本核算表</title>
+    <meta name="author" content="weekdawn">
+
+    <link rel="shortcut icon" href="img/favicon.ico">
+    <link href="css/bootstrap.min14ed.css?v=3.3.6" rel="stylesheet">
+    <link href="css/font-awesome.min93e3.css?v=4.4.0" rel="stylesheet">
+
+    <link href="css/animate.min.css" rel="stylesheet">
+    <link href="css/style.min862f.css?v=4.1.0" rel="stylesheet">
+
+</head>
+
+<body class="gray-bg">
+
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <h2 class="text-center text-success" style="margin:30px;">成本核算表</h2>
+        <!--型号选择模块-->
+        <div class="col-md-12">
+                <form role="form" class="col-md-8">
+                    <h3 class="col-md-2">型号</h3>
+                    <div class="form-group col-md-6">
+                        <select class="form-control" id="type_select_query">
+                            <option>选择型号</option>
+                        </select>
+                    </div>
+                </form>
+                <div class="col-md-4">
+                    <a id="confirm" href="javascript:void(0);" class="btn btn-primary ">确认</a>
+                </div>
+        </div>
+        <!--计算成本模块-->
+        <div class="col-md-12">
+            <div class="col-md-6"></div>
+            <div class="col-md-6">
+                <div role="form" class="col-md-3">
+                    <div class="form-group">
+                        <input type="text" class="form-control" id="price_rate" placeholder="输入单价">
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <a id="calculate" href="javascript:void(0);" class="btn btn-primary">开始计算</a>
+                </div>
+            </div>
+
+            <!--datatable区-->
+            <div class="col-md-12" id="costArea"><!--展示区-->
+                <table class="table table-striped table-bordered table-hover " id="cost_table">
+                    <thead>
+                        <tr>
+                            <th class="specs">规格</th>
+                            <th class="weight">铜重量</th>
+                            <th class="price">铜费用</th>
+                            <th class="other_price">其他费用</th>
+                            <th class="final_cost">材料成本</th>
+                        </tr>
+                    </thead>
+                    <tbody id="datalist"></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="js/jquery.min63b9.js?v=2.1.4"></script>
+<script src="js/bootstrap.min14ed.js?v=3.3.6"></script>
+<script>
+    $(document).ready(function () {
+
+        getType();
+
+        $("#confirm").click(function () {
+            $("#datalist").empty();
+            show_table(0);
+        });
+
+        //计算按键的操作
+        $("#calculate").click(function () {
+            $("#datalist").empty();
+            let price_rate = $("#price_rate").val();
+            show_table(price_rate);
+        });
+
+
+        function getType() {
+            let types = [
+                "RVV",
+                "RVVP",
+                "RVV22",
+                "RVVP22",
+                "RVVP2-22",
+
+                "N-RVV",
+                "N-RVVP",
+                "N-RVV22",
+                "N-RVVP22",
+                "N-RVVP2-22",
+
+                "KVV",
+                "KVVP",
+                "KVV22",
+                "KVVP22",
+                "KVVP2",
+                "KVVP2-22",
+
+                "N-KVV",
+                "N-KVVP",
+                "N-KVV22",
+                "N-KVVP2",
+                "N-KVVP22",
+                "N-KVVP2-22",
+
+                "RVS",
+                "N-RVS",
+
+                "RVSP",
+                "N-RVSP",
+
+                "BVVB",
+                "N-BVVB",
+                "BLVVB",
+
+                "RV",
+                "N-RV",
+
+                "BV",
+                "N-BV",
+                "BVR",
+                "N-BVR",
+
+                "BLV",
+                "N-BLV",
+
+                "KVVR",
+                "KVVR-22",
+                "H-KVVR-22",
+            ];
+            types.forEach(function (item, index) {
+                let option = "<option value=" + index + ">" + item + "</option>";
+                $("#type_select_query").append(option)
+            })
+
+        }
+
+        function show_table(price_rate) {
+            let type = $("#type_select_query option:selected").text();
+            let typedata, showdata;//typedata 所有数据， showdata展示数据
+            typedata = {
+                "RVV":[
+                    ["2×0.3",	0.1, 	29.1, 	23.30, 	52.4],
+                    ["2×0.4",	0.2, 	29.1, 	23.30, 	52.4],
+                    ["2×0.5",	0.3, 	29.1, 	23.30, 	52.4],
+                    ["2×0.6",	0.5362334208, 	29.1, 	23.30, 	52.4],
+                ],
+            };
+            showdata = typedata[type];
+            for(let i in showdata){
+                let item = showdata[i];
+                let specs = item[0];
+                let weight = item[1];
+                let price;
+                if(price_rate == 0){
+                    price = item[2];
+                }else {
+                    price = weight * price_rate;
+                }
+                let other_price = item[3];
+                let final_cost = price + other_price;
+                let td_unit = "<tr><td>" +
+                    specs + "</td><td>" +
+                    weight.toFixed(2) + "</td><td>" +
+                    price.toFixed(1) + "</td><td>" +
+                    other_price + "</td><td>" +
+                    final_cost.toFixed(1) + "</td></tr>";
+                $("#datalist").append(td_unit);
+            }
+        }
+    });
+</script>
+</body>
+</html>
