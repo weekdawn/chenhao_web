@@ -78,6 +78,7 @@
 
         $("#confirm").click(function () {
             $("#datalist").empty();
+            $("#price_rate").val("");
             show_table(0);
         });
 
@@ -88,6 +89,16 @@
             show_table(price_rate);
         });
 
+        //回车触发计算
+        $("#price_rate").keydown(function(e){
+            if(e.keyCode == 13){
+                $("#calculate").click(function () {
+                    $("#datalist").empty();
+                    let price_rate = $("#price_rate").val();
+                    show_table(price_rate);
+                });
+            }
+        });
 
         function getType() {
             let types = [
