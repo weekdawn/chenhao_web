@@ -1,0 +1,1534 @@
+{
+    "RECORDS": [
+        {
+            "specs": "2×0.5",
+            "cu_weight": "0.94",
+            "cu_price": "50.008",
+            "plastic_weight": "0.968878",
+            "plastic_price": "7.751027",
+            "other_price": "36.384246",
+            "final_cost": "94.143273"
+        },
+        {
+            "specs": "2×0.75",
+            "cu_weight": "1.4",
+            "cu_price": "74.48",
+            "plastic_weight": "1.127687",
+            "plastic_price": "9.021496",
+            "other_price": "38.480775",
+            "final_cost": "121.982272"
+        },
+        {
+            "specs": "2×1",
+            "cu_weight": "1.8",
+            "cu_price": "95.76",
+            "plastic_weight": "1.283946",
+            "plastic_price": "10.271568",
+            "other_price": "40.291414",
+            "final_cost": "146.322982"
+        },
+        {
+            "specs": "2×1.5",
+            "cu_weight": "2.62",
+            "cu_price": "139.384",
+            "plastic_weight": "1.447854",
+            "plastic_price": "11.582832",
+            "other_price": "42.578538",
+            "final_cost": "193.54537"
+        },
+        {
+            "specs": "2×2.5",
+            "cu_weight": "4.28",
+            "cu_price": "227.696",
+            "plastic_weight": "2.012426",
+            "plastic_price": "16.099408",
+            "other_price": "53.760632",
+            "final_cost": "297.55604"
+        },
+        {
+            "specs": "2×4",
+            "cu_weight": "6.76",
+            "cu_price": "359.632",
+            "plastic_weight": "2.360731",
+            "plastic_price": "18.885844",
+            "other_price": "70.637353",
+            "final_cost": "449.155197"
+        },
+        {
+            "specs": "2×6",
+            "cu_weight": "10.331",
+            "cu_price": "549.6092",
+            "plastic_weight": "2.763216",
+            "plastic_price": "22.105726",
+            "other_price": "84.64659",
+            "final_cost": "656.361516"
+        },
+        {
+            "specs": "2*10",
+            "cu_weight": "17.2906",
+            "cu_price": "919.85992",
+            "plastic_weight": "4.818895",
+            "plastic_price": "38.551162",
+            "other_price": "130.832104",
+            "final_cost": "1089.243186"
+        },
+        {
+            "specs": "3X0.5",
+            "cu_weight": "1.41",
+            "cu_price": "75.012",
+            "plastic_weight": "1.453318",
+            "plastic_price": "11.626541",
+            "other_price": "35.185809",
+            "final_cost": "121.82435"
+        },
+        {
+            "specs": "3×0.75",
+            "cu_weight": "2.1",
+            "cu_price": "111.72",
+            "plastic_weight": "1.691531",
+            "plastic_price": "13.532244",
+            "other_price": "37.443771",
+            "final_cost": "162.696016"
+        },
+        {
+            "specs": "3×1",
+            "cu_weight": "2.7",
+            "cu_price": "143.64",
+            "plastic_weight": "1.925919",
+            "plastic_price": "15.407352",
+            "other_price": "39.39383",
+            "final_cost": "198.441182"
+        },
+        {
+            "specs": "3×1.5",
+            "cu_weight": "3.93",
+            "cu_price": "209.076",
+            "plastic_weight": "2.171781",
+            "plastic_price": "17.374248",
+            "other_price": "46.946454",
+            "final_cost": "273.396702"
+        },
+        {
+            "specs": "3×2.5",
+            "cu_weight": "6.42",
+            "cu_price": "341.544",
+            "plastic_weight": "3.018639",
+            "plastic_price": "24.149112",
+            "other_price": "52.899263",
+            "final_cost": "418.592375"
+        },
+        {
+            "specs": "3×4",
+            "cu_weight": "10.14",
+            "cu_price": "539.448",
+            "plastic_weight": "3.541096",
+            "plastic_price": "28.328766",
+            "other_price": "79.245109",
+            "final_cost": "647.021875"
+        },
+        {
+            "specs": "3×6",
+            "cu_weight": "15.4965",
+            "cu_price": "824.4138",
+            "plastic_weight": "4.144824",
+            "plastic_price": "33.158588",
+            "other_price": "87.80663",
+            "final_cost": "945.379018"
+        },
+        {
+            "specs": "3*10",
+            "cu_weight": "25.9359",
+            "cu_price": "1379.78988",
+            "plastic_weight": "7.228343",
+            "plastic_price": "57.826742",
+            "other_price": "124.754453",
+            "final_cost": "1562.371076"
+        },
+        {
+            "specs": "4X0.5",
+            "cu_weight": "1.88",
+            "cu_price": "100.016",
+            "plastic_weight": "1.937757",
+            "plastic_price": "15.502054",
+            "other_price": "40.067051",
+            "final_cost": "155.585105"
+        },
+        {
+            "specs": "4×0.75",
+            "cu_weight": "2.8",
+            "cu_price": "148.96",
+            "plastic_weight": "2.255374",
+            "plastic_price": "18.042993",
+            "other_price": "42.597562",
+            "final_cost": "209.600555"
+        },
+        {
+            "specs": "4×1",
+            "cu_weight": "3.6",
+            "cu_price": "191.52",
+            "plastic_weight": "2.567892",
+            "plastic_price": "20.543136",
+            "other_price": "44.783003",
+            "final_cost": "256.846139"
+        },
+        {
+            "specs": "4×1.5",
+            "cu_weight": "5.24",
+            "cu_price": "278.768",
+            "plastic_weight": "2.895708",
+            "plastic_price": "23.165664",
+            "other_price": "47.543561",
+            "final_cost": "349.477225"
+        },
+        {
+            "specs": "4×2.5",
+            "cu_weight": "8.56",
+            "cu_price": "455.392",
+            "plastic_weight": "4.024852",
+            "plastic_price": "32.198816",
+            "other_price": "62.697229",
+            "final_cost": "550.288045"
+        },
+        {
+            "specs": "4×4",
+            "cu_weight": "13.52",
+            "cu_price": "719.264",
+            "plastic_weight": "4.721461",
+            "plastic_price": "37.771688",
+            "other_price": "83.226788",
+            "final_cost": "840.262476"
+        },
+        {
+            "specs": "4×6",
+            "cu_weight": "20.662",
+            "cu_price": "1099.2184",
+            "plastic_weight": "5.526431",
+            "plastic_price": "44.211451",
+            "other_price": "106.717522",
+            "final_cost": "1250.147373"
+        },
+        {
+            "specs": "4*10",
+            "cu_weight": "34.5812",
+            "cu_price": "1839.71984",
+            "plastic_weight": "9.63779",
+            "plastic_price": "77.102323",
+            "other_price": "156.125756",
+            "final_cost": "2072.947919"
+        },
+        {
+            "specs": "5X0.5",
+            "cu_weight": "2.35",
+            "cu_price": "117.5",
+            "plastic_weight": "2.422196",
+            "plastic_price": "19.377568",
+            "other_price": "42.526855",
+            "final_cost": "179.404423"
+        },
+        {
+            "specs": "5×0.75",
+            "cu_weight": "3.5",
+            "cu_price": "175",
+            "plastic_weight": "2.819218",
+            "plastic_price": "22.553741",
+            "other_price": "45.35717",
+            "final_cost": "242.910911"
+        },
+        {
+            "specs": "5×1",
+            "cu_weight": "4.5",
+            "cu_price": "225",
+            "plastic_weight": "3.209865",
+            "plastic_price": "25.67892",
+            "other_price": "47.801533",
+            "final_cost": "298.480453"
+        },
+        {
+            "specs": "5×1.5",
+            "cu_weight": "6.55",
+            "cu_price": "327.5",
+            "plastic_weight": "3.619635",
+            "plastic_price": "28.95708",
+            "other_price": "50.889149",
+            "final_cost": "407.346229"
+        },
+        {
+            "specs": "5×2.5",
+            "cu_weight": "10.7",
+            "cu_price": "535",
+            "plastic_weight": "5.031065",
+            "plastic_price": "40.24852",
+            "other_price": "78.381371",
+            "final_cost": "653.629891"
+        },
+        {
+            "specs": "5×4",
+            "cu_weight": "16.9",
+            "cu_price": "845",
+            "plastic_weight": "5.901826",
+            "plastic_price": "47.21461",
+            "other_price": "87.498941",
+            "final_cost": "979.713551"
+        },
+        {
+            "specs": "5×6",
+            "cu_weight": "25.8275",
+            "cu_price": "1291.375",
+            "plastic_weight": "6.908039",
+            "plastic_price": "55.264314",
+            "other_price": "109.033448",
+            "final_cost": "1455.672762"
+        },
+        {
+            "specs": "5*10",
+            "cu_weight": "43.2265",
+            "cu_price": "2161.325",
+            "plastic_weight": "12.047238",
+            "plastic_price": "96.377904",
+            "other_price": "171.670455",
+            "final_cost": "2429.373359"
+        },
+        {
+            "specs": "6X0.5",
+            "cu_weight": "2.82",
+            "cu_price": "141",
+            "plastic_weight": "2.906635",
+            "plastic_price": "23.253082",
+            "other_price": "47.700238",
+            "final_cost": "211.95332"
+        },
+        {
+            "specs": "6×0.75",
+            "cu_weight": "4.2",
+            "cu_price": "210",
+            "plastic_weight": "3.383061",
+            "plastic_price": "27.064489",
+            "other_price": "50.845033",
+            "final_cost": "287.909522"
+        },
+        {
+            "specs": "6×1.0",
+            "cu_weight": "5.4",
+            "cu_price": "270",
+            "plastic_weight": "3.851838",
+            "plastic_price": "30.814704",
+            "other_price": "53.560992",
+            "final_cost": "354.375696"
+        },
+        {
+            "specs": "6×1.5",
+            "cu_weight": "7.86",
+            "cu_price": "393",
+            "plastic_weight": "4.343562",
+            "plastic_price": "34.748496",
+            "other_price": "59.819116",
+            "final_cost": "487.567612"
+        },
+        {
+            "specs": "6×2.5",
+            "cu_weight": "12.84",
+            "cu_price": "642",
+            "plastic_weight": "6.037278",
+            "plastic_price": "48.298224",
+            "other_price": "84.48607",
+            "final_cost": "774.784294"
+        },
+        {
+            "specs": "6×4",
+            "cu_weight": "20.28",
+            "cu_price": "1014",
+            "plastic_weight": "7.082192",
+            "plastic_price": "56.657532",
+            "other_price": "100.352897",
+            "final_cost": "1171.010429"
+        },
+        {
+            "specs": "6×6",
+            "cu_weight": "30.993",
+            "cu_price": "1549.65",
+            "plastic_weight": "8.289647",
+            "plastic_price": "66.317177",
+            "other_price": "111.491505",
+            "final_cost": "1727.458682"
+        },
+        {
+            "specs": "6*10",
+            "cu_weight": "51.8718",
+            "cu_price": "2593.59",
+            "plastic_weight": "14.456686",
+            "plastic_price": "115.653485",
+            "other_price": "165.650708",
+            "final_cost": "2874.894193"
+        },
+        {
+            "specs": "7X0.5",
+            "cu_weight": "3.29",
+            "cu_price": "164.5",
+            "plastic_weight": "3.391074",
+            "plastic_price": "27.128595",
+            "other_price": "47.438286",
+            "final_cost": "239.066882"
+        },
+        {
+            "specs": "7×0.75",
+            "cu_weight": "4.9",
+            "cu_price": "245",
+            "plastic_weight": "3.946905",
+            "plastic_price": "31.575237",
+            "other_price": "50.583081",
+            "final_cost": "327.158318"
+        },
+        {
+            "specs": "7×1",
+            "cu_weight": "6.3",
+            "cu_price": "315",
+            "plastic_weight": "4.493811",
+            "plastic_price": "35.950488",
+            "other_price": "53.29904",
+            "final_cost": "404.249528"
+        },
+        {
+            "specs": "7×1.5",
+            "cu_weight": "9.17",
+            "cu_price": "458.5",
+            "plastic_weight": "5.067489",
+            "plastic_price": "40.539912",
+            "other_price": "56.729724",
+            "final_cost": "555.769636"
+        },
+        {
+            "specs": "7×2.5",
+            "cu_weight": "14.98",
+            "cu_price": "749",
+            "plastic_weight": "7.043491",
+            "plastic_price": "56.347928",
+            "other_price": "79.396678",
+            "final_cost": "884.744606"
+        },
+        {
+            "specs": "7×4",
+            "cu_weight": "23.66",
+            "cu_price": "1183",
+            "plastic_weight": "8.262557",
+            "plastic_price": "66.100454",
+            "other_price": "91.305089",
+            "final_cost": "1340.405543"
+        },
+        {
+            "specs": "7×6",
+            "cu_weight": "36.1585",
+            "cu_price": "1807.925",
+            "plastic_weight": "9.671255",
+            "plastic_price": "77.37004",
+            "other_price": "104.443697",
+            "final_cost": "1989.738737"
+        },
+        {
+            "specs": "7*10",
+            "cu_weight": "60.5171",
+            "cu_price": "3025.855",
+            "plastic_weight": "16.866133",
+            "plastic_price": "134.929066",
+            "other_price": "161.513508",
+            "final_cost": "3322.297573"
+        },
+        {
+            "specs": "8X0.5",
+            "cu_weight": "3.76",
+            "cu_price": "188",
+            "plastic_weight": "3.875514",
+            "plastic_price": "31.004109",
+            "other_price": "53.177158",
+            "final_cost": "272.181267"
+        },
+        {
+            "specs": "8×0.75",
+            "cu_weight": "5.6",
+            "cu_price": "280",
+            "plastic_weight": "4.510748",
+            "plastic_price": "36.085985",
+            "other_price": "56.636432",
+            "final_cost": "372.722417"
+        },
+        {
+            "specs": "8×1",
+            "cu_weight": "7.2",
+            "cu_price": "360",
+            "plastic_weight": "5.135784",
+            "plastic_price": "41.086272",
+            "other_price": "59.623986",
+            "final_cost": "460.710258"
+        },
+        {
+            "specs": "8×1.5",
+            "cu_weight": "10.48",
+            "cu_price": "524",
+            "plastic_weight": "5.791416",
+            "plastic_price": "46.331328",
+            "other_price": "78.509376",
+            "final_cost": "648.840704"
+        },
+        {
+            "specs": "8×2.5",
+            "cu_weight": "17.12",
+            "cu_price": "856",
+            "plastic_weight": "8.049704",
+            "plastic_price": "64.397632",
+            "other_price": "93.721745",
+            "final_cost": "1014.119377"
+        },
+        {
+            "specs": "8×4",
+            "cu_weight": "27.04",
+            "cu_price": "1352",
+            "plastic_weight": "9.442922",
+            "plastic_price": "75.543376",
+            "other_price": "109.248437",
+            "final_cost": "1536.791813"
+        },
+        {
+            "specs": "8×6",
+            "cu_weight": "41.324",
+            "cu_price": "2066.2",
+            "plastic_weight": "11.052863",
+            "plastic_price": "88.422902",
+            "other_price": "132.336723",
+            "final_cost": "2286.959626"
+        },
+        {
+            "specs": "8*10",
+            "cu_weight": "69.1624",
+            "cu_price": "3458.12",
+            "plastic_weight": "19.275581",
+            "plastic_price": "154.204646",
+            "other_price": "192.5956",
+            "final_cost": "3804.920247"
+        },
+        {
+            "specs": "9X0.5",
+            "cu_weight": "4.23",
+            "cu_price": "211.5",
+            "plastic_weight": "4.359953",
+            "plastic_price": "34.879622",
+            "other_price": "59.408336",
+            "final_cost": "305.787958"
+        },
+        {
+            "specs": "9×0.75",
+            "cu_weight": "6.3",
+            "cu_price": "315",
+            "plastic_weight": "5.074592",
+            "plastic_price": "40.596733",
+            "other_price": "63.286916",
+            "final_cost": "418.883649"
+        },
+        {
+            "specs": "9×1",
+            "cu_weight": "8.1",
+            "cu_price": "405",
+            "plastic_weight": "5.777757",
+            "plastic_price": "46.222056",
+            "other_price": "66.636598",
+            "final_cost": "517.858654"
+        },
+        {
+            "specs": "9×1.5",
+            "cu_weight": "11.79",
+            "cu_price": "589.5",
+            "plastic_weight": "6.515343",
+            "plastic_price": "52.122744",
+            "other_price": "87.234454",
+            "final_cost": "728.857198"
+        },
+        {
+            "specs": "9×2.5",
+            "cu_weight": "19.26",
+            "cu_price": "963",
+            "plastic_weight": "9.055917",
+            "plastic_price": "72.447336",
+            "other_price": "101.805898",
+            "final_cost": "1137.253234"
+        },
+        {
+            "specs": "9×4",
+            "cu_weight": "30.42",
+            "cu_price": "1521",
+            "plastic_weight": "10.623287",
+            "plastic_price": "84.986298",
+            "other_price": "116.387045",
+            "final_cost": "1722.373343"
+        },
+        {
+            "specs": "9×6",
+            "cu_weight": "46.4895",
+            "cu_price": "2324.475",
+            "plastic_weight": "12.434471",
+            "plastic_price": "99.475765",
+            "other_price": "143.98238",
+            "final_cost": "2567.933145"
+        },
+        {
+            "specs": "9*10",
+            "cu_weight": "77.8077",
+            "cu_price": "3890.385",
+            "plastic_weight": "21.685028",
+            "plastic_price": "173.480227",
+            "other_price": "218.641313",
+            "final_cost": "4282.50654"
+        },
+        {
+            "specs": "10X0.5",
+            "cu_weight": "4.7",
+            "cu_price": "235",
+            "plastic_weight": "4.844392",
+            "plastic_price": "38.755136",
+            "other_price": "65.147207",
+            "final_cost": "338.902343"
+        },
+        {
+            "specs": "10×0.75",
+            "cu_weight": "7",
+            "cu_price": "350",
+            "plastic_weight": "5.638435",
+            "plastic_price": "45.107482",
+            "other_price": "69.340266",
+            "final_cost": "464.447748"
+        },
+        {
+            "specs": "10×1",
+            "cu_weight": "9",
+            "cu_price": "450",
+            "plastic_weight": "6.41973",
+            "plastic_price": "51.35784",
+            "other_price": "76.354473",
+            "final_cost": "577.712313"
+        },
+        {
+            "specs": "10×1.5",
+            "cu_weight": "13.1",
+            "cu_price": "655",
+            "plastic_weight": "7.23927",
+            "plastic_price": "57.91416",
+            "other_price": "96.540215",
+            "final_cost": "809.454375"
+        },
+        {
+            "specs": "10×2.5",
+            "cu_weight": "21.4",
+            "cu_price": "1070",
+            "plastic_weight": "10.06213",
+            "plastic_price": "80.49704",
+            "other_price": "117.785845",
+            "final_cost": "1268.282885"
+        },
+        {
+            "specs": "10×4",
+            "cu_weight": "33.8",
+            "cu_price": "1690",
+            "plastic_weight": "11.803653",
+            "plastic_price": "94.42922",
+            "other_price": "130.330393",
+            "final_cost": "1914.759613"
+        },
+        {
+            "specs": "10×6",
+            "cu_weight": "51.655",
+            "cu_price": "2582.75",
+            "plastic_weight": "13.816078",
+            "plastic_price": "110.528628",
+            "other_price": "159.806015",
+            "final_cost": "2853.084643"
+        },
+        {
+            "specs": "10*10",
+            "cu_weight": "86.453",
+            "cu_price": "4322.65",
+            "plastic_weight": "24.094476",
+            "plastic_price": "192.755808",
+            "other_price": "249.723406",
+            "final_cost": "4765.129214"
+        },
+        {
+            "specs": "11X0.5",
+            "cu_weight": "5.17",
+            "cu_price": "258.5",
+            "plastic_weight": "5.328831",
+            "plastic_price": "42.63065",
+            "other_price": "69.341699",
+            "final_cost": "370.472348"
+        },
+        {
+            "specs": "11×0.75",
+            "cu_weight": "7.7",
+            "cu_price": "385",
+            "plastic_weight": "6.202279",
+            "plastic_price": "49.61823",
+            "other_price": "73.696191",
+            "final_cost": "508.31442"
+        },
+        {
+            "specs": "11×1",
+            "cu_weight": "9.9",
+            "cu_price": "495",
+            "plastic_weight": "7.061703",
+            "plastic_price": "56.493624",
+            "other_price": "77.456888",
+            "final_cost": "628.950512"
+        },
+        {
+            "specs": "11×1.5",
+            "cu_weight": "14.41",
+            "cu_price": "720.5",
+            "plastic_weight": "7.963197",
+            "plastic_price": "63.705576",
+            "other_price": "103.391322",
+            "final_cost": "887.596898"
+        },
+        {
+            "specs": "11×2.5",
+            "cu_weight": "23.54",
+            "cu_price": "1177",
+            "plastic_weight": "11.068343",
+            "plastic_price": "88.546744",
+            "other_price": "119.505316",
+            "final_cost": "1385.05206"
+        },
+        {
+            "specs": "11×4",
+            "cu_weight": "37.18",
+            "cu_price": "1859",
+            "plastic_weight": "12.984018",
+            "plastic_price": "103.872142",
+            "other_price": "132.455829",
+            "final_cost": "2095.327971"
+        },
+        {
+            "specs": "11×6",
+            "cu_weight": "56.8205",
+            "cu_price": "2841.025",
+            "plastic_weight": "15.197686",
+            "plastic_price": "121.581491",
+            "other_price": "171.378985",
+            "final_cost": "3133.985475"
+        },
+        {
+            "specs": "11*10",
+            "cu_weight": "95.0983",
+            "cu_price": "4754.915",
+            "plastic_weight": "26.503924",
+            "plastic_price": "212.031389",
+            "other_price": "296.083265",
+            "final_cost": "5263.029654"
+        },
+        {
+            "specs": "12X0.5",
+            "cu_weight": "5.64",
+            "cu_price": "282",
+            "plastic_weight": "5.81327",
+            "plastic_price": "46.506163",
+            "other_price": "71.341699",
+            "final_cost": "399.847862"
+        },
+        {
+            "specs": "12×0.75",
+            "cu_weight": "8.4",
+            "cu_price": "420",
+            "plastic_weight": "6.766122",
+            "plastic_price": "54.128978",
+            "other_price": "75.696191",
+            "final_cost": "549.825169"
+        },
+        {
+            "specs": "12×1.0",
+            "cu_weight": "10.8",
+            "cu_price": "540",
+            "plastic_weight": "7.703676",
+            "plastic_price": "61.629408",
+            "other_price": "79.456888",
+            "final_cost": "681.086296"
+        },
+        {
+            "specs": "12×1.5",
+            "cu_weight": "15.72",
+            "cu_price": "786",
+            "plastic_weight": "8.687124",
+            "plastic_price": "69.496992",
+            "other_price": "105.391322",
+            "final_cost": "960.888314"
+        },
+        {
+            "specs": "12×2.5",
+            "cu_weight": "25.68",
+            "cu_price": "1284",
+            "plastic_weight": "12.074556",
+            "plastic_price": "96.596448",
+            "other_price": "121.505316",
+            "final_cost": "1502.101764"
+        },
+        {
+            "specs": "12×4",
+            "cu_weight": "40.56",
+            "cu_price": "2028",
+            "plastic_weight": "14.164383",
+            "plastic_price": "113.315064",
+            "other_price": "134.455829",
+            "final_cost": "2275.770893"
+        },
+        {
+            "specs": "12×6",
+            "cu_weight": "61.986",
+            "cu_price": "3099.3",
+            "plastic_weight": "16.579294",
+            "plastic_price": "132.634354",
+            "other_price": "173.378985",
+            "final_cost": "3405.313338"
+        },
+        {
+            "specs": "12*10",
+            "cu_weight": "103.7436",
+            "cu_price": "5187.18",
+            "plastic_weight": "28.913371",
+            "plastic_price": "231.30697",
+            "other_price": "306.083265",
+            "final_cost": "5724.570235"
+        },
+        {
+            "specs": "13X0.5",
+            "cu_weight": "6.11",
+            "cu_price": "305.5",
+            "plastic_weight": "6.29771",
+            "plastic_price": "50.381677",
+            "other_price": "74.960988",
+            "final_cost": "430.842665"
+        },
+        {
+            "specs": "13×0.75",
+            "cu_weight": "9.1",
+            "cu_price": "455",
+            "plastic_weight": "7.329966",
+            "plastic_price": "58.639726",
+            "other_price": "79.588029",
+            "final_cost": "593.227755"
+        },
+        {
+            "specs": "13×1.0",
+            "cu_weight": "11.7",
+            "cu_price": "585",
+            "plastic_weight": "8.345649",
+            "plastic_price": "66.765192",
+            "other_price": "83.58411",
+            "final_cost": "735.349302"
+        },
+        {
+            "specs": "13×1.5",
+            "cu_weight": "17.03",
+            "cu_price": "851.5",
+            "plastic_weight": "9.411051",
+            "plastic_price": "75.288408",
+            "other_price": "107.238719",
+            "final_cost": "1034.027127"
+        },
+        {
+            "specs": "13×2.5",
+            "cu_weight": "27.82",
+            "cu_price": "1391",
+            "plastic_weight": "13.080769",
+            "plastic_price": "104.646152",
+            "other_price": "124.236112",
+            "final_cost": "1619.882264"
+        },
+        {
+            "specs": "13×4",
+            "cu_weight": "43.94",
+            "cu_price": "2197",
+            "plastic_weight": "15.344748",
+            "plastic_price": "122.757986",
+            "other_price": "137.87202",
+            "final_cost": "2457.630006"
+        },
+        {
+            "specs": "13×6",
+            "cu_weight": "67.1515",
+            "cu_price": "3357.575",
+            "plastic_weight": "17.960902",
+            "plastic_price": "143.687216",
+            "other_price": "172.769878",
+            "final_cost": "3674.032094"
+        },
+        {
+            "specs": "13*10",
+            "cu_weight": "112.3889",
+            "cu_price": "5619.445",
+            "plastic_weight": "31.322819",
+            "plastic_price": "250.58255",
+            "other_price": "309.571389",
+            "final_cost": "6179.598939"
+        },
+        {
+            "specs": "14X0.5",
+            "cu_weight": "6.58",
+            "cu_price": "329",
+            "plastic_weight": "6.782149",
+            "plastic_price": "54.25719",
+            "other_price": "74.960988",
+            "final_cost": "458.218179"
+        },
+        {
+            "specs": "14×0.75",
+            "cu_weight": "9.8",
+            "cu_price": "490",
+            "plastic_weight": "7.893809",
+            "plastic_price": "63.150474",
+            "other_price": "79.588029",
+            "final_cost": "632.738503"
+        },
+        {
+            "specs": "14×1",
+            "cu_weight": "12.6",
+            "cu_price": "630",
+            "plastic_weight": "8.987622",
+            "plastic_price": "71.900976",
+            "other_price": "99.336437",
+            "final_cost": "801.237413"
+        },
+        {
+            "specs": "14×1.5",
+            "cu_weight": "18.34",
+            "cu_price": "917",
+            "plastic_weight": "10.134978",
+            "plastic_price": "81.079824",
+            "other_price": "107.238719",
+            "final_cost": "1105.318543"
+        },
+        {
+            "specs": "14×2.5",
+            "cu_weight": "29.96",
+            "cu_price": "1498",
+            "plastic_weight": "14.086982",
+            "plastic_price": "112.695856",
+            "other_price": "137.740056",
+            "final_cost": "1748.435912"
+        },
+        {
+            "specs": "14×4",
+            "cu_weight": "47.32",
+            "cu_price": "2366",
+            "plastic_weight": "16.525114",
+            "plastic_price": "132.200908",
+            "other_price": "152.823635",
+            "final_cost": "2651.024543"
+        },
+        {
+            "specs": "14×6",
+            "cu_weight": "72.317",
+            "cu_price": "3615.85",
+            "plastic_weight": "19.34251",
+            "plastic_price": "154.740079",
+            "other_price": "172.769878",
+            "final_cost": "3943.359957"
+        },
+        {
+            "specs": "15X0.5",
+            "cu_weight": "7.05",
+            "cu_price": "352.5",
+            "plastic_weight": "7.266588",
+            "plastic_price": "58.132704",
+            "other_price": "77.986281",
+            "final_cost": "488.618985"
+        },
+        {
+            "specs": "15×0.75",
+            "cu_weight": "10.5",
+            "cu_price": "525",
+            "plastic_weight": "8.457653",
+            "plastic_price": "67.661222",
+            "other_price": "82.913125",
+            "final_cost": "675.574348"
+        },
+        {
+            "specs": "15×1.0",
+            "cu_weight": "13.5",
+            "cu_price": "675",
+            "plastic_weight": "9.629595",
+            "plastic_price": "77.03676",
+            "other_price": "103.742769",
+            "final_cost": "855.779529"
+        },
+        {
+            "specs": "15×1.5",
+            "cu_weight": "19.65",
+            "cu_price": "982.5",
+            "plastic_weight": "10.858905",
+            "plastic_price": "86.87124",
+            "other_price": "112.04715",
+            "final_cost": "1181.41839"
+        },
+        {
+            "specs": "15×2.5",
+            "cu_weight": "32.1",
+            "cu_price": "1605",
+            "plastic_weight": "15.093195",
+            "plastic_price": "120.74556",
+            "other_price": "144.23936",
+            "final_cost": "1869.98492"
+        },
+        {
+            "specs": "15×4",
+            "cu_weight": "50.7",
+            "cu_price": "2535",
+            "plastic_weight": "17.705479",
+            "plastic_price": "141.64383",
+            "other_price": "160.170674",
+            "final_cost": "2836.814504"
+        },
+        {
+            "specs": "15×6",
+            "cu_weight": "77.4825",
+            "cu_price": "3874.125",
+            "plastic_weight": "20.724118",
+            "plastic_price": "165.792942",
+            "other_price": "181.096522",
+            "final_cost": "4221.014464"
+        },
+        {
+            "specs": "16X0.5",
+            "cu_weight": "7.52",
+            "cu_price": "376",
+            "plastic_weight": "7.751027",
+            "plastic_price": "62.008218",
+            "other_price": "92.454245",
+            "final_cost": "530.462463"
+        },
+        {
+            "specs": "16×0.75",
+            "cu_weight": "11.2",
+            "cu_price": "560",
+            "plastic_weight": "9.021496",
+            "plastic_price": "72.171971",
+            "other_price": "98.511502",
+            "final_cost": "730.683473"
+        },
+        {
+            "specs": "16×1.0",
+            "cu_weight": "14.4",
+            "cu_price": "720",
+            "plastic_weight": "10.271568",
+            "plastic_price": "82.172544",
+            "other_price": "103.742769",
+            "final_cost": "905.915313"
+        },
+        {
+            "specs": "16×1.5",
+            "cu_weight": "20.96",
+            "cu_price": "1048",
+            "plastic_weight": "11.582832",
+            "plastic_price": "92.662656",
+            "other_price": "124.283443",
+            "final_cost": "1264.946099"
+        },
+        {
+            "specs": "16×2.5",
+            "cu_weight": "34.24",
+            "cu_price": "1712",
+            "plastic_weight": "16.099408",
+            "plastic_price": "128.795264",
+            "other_price": "144.23936",
+            "final_cost": "1985.034624"
+        },
+        {
+            "specs": "16×4",
+            "cu_weight": "54.08",
+            "cu_price": "2704",
+            "plastic_weight": "18.885844",
+            "plastic_price": "151.086752",
+            "other_price": "160.170674",
+            "final_cost": "3015.257426"
+        },
+        {
+            "specs": "16×6",
+            "cu_weight": "82.648",
+            "cu_price": "4132.4",
+            "plastic_weight": "22.105726",
+            "plastic_price": "176.845805",
+            "other_price": "181.096522",
+            "final_cost": "4490.342327"
+        },
+        {
+            "specs": "17X0.5",
+            "cu_weight": "7.99",
+            "cu_price": "399.5",
+            "plastic_weight": "8.235466",
+            "plastic_price": "65.883731",
+            "other_price": "96.355728",
+            "final_cost": "561.739459"
+        },
+        {
+            "specs": "17×0.75",
+            "cu_weight": "11.9",
+            "cu_price": "595",
+            "plastic_weight": "9.58534",
+            "plastic_price": "76.682719",
+            "other_price": "102.799618",
+            "final_cost": "774.482337"
+        },
+        {
+            "specs": "17×1",
+            "cu_weight": "15.3",
+            "cu_price": "765",
+            "plastic_weight": "10.913541",
+            "plastic_price": "87.308328",
+            "other_price": "108.364796",
+            "final_cost": "960.673124"
+        },
+        {
+            "specs": "17×1.5",
+            "cu_weight": "22.27",
+            "cu_price": "1113.5",
+            "plastic_weight": "12.306759",
+            "plastic_price": "98.454072",
+            "other_price": "129.954773",
+            "final_cost": "1341.908845"
+        },
+        {
+            "specs": "17×2.5",
+            "cu_weight": "36.38",
+            "cu_price": "1819",
+            "plastic_weight": "17.105621",
+            "plastic_price": "136.844968",
+            "other_price": "151.056811",
+            "final_cost": "2106.90178"
+        },
+        {
+            "specs": "17×4",
+            "cu_weight": "57.46",
+            "cu_price": "2873",
+            "plastic_weight": "20.066209",
+            "plastic_price": "160.529674",
+            "other_price": "167.877359",
+            "final_cost": "3201.407033"
+        },
+        {
+            "specs": "17×6",
+            "cu_weight": "87.8135",
+            "cu_price": "4390.675",
+            "plastic_weight": "23.487333",
+            "plastic_price": "187.898668",
+            "other_price": "189.830765",
+            "final_cost": "4768.404433"
+        },
+        {
+            "specs": "18X0.5",
+            "cu_weight": "8.46",
+            "cu_price": "423",
+            "plastic_weight": "8.719906",
+            "plastic_price": "69.759245",
+            "other_price": "96.355728",
+            "final_cost": "589.114973"
+        },
+        {
+            "specs": "18×0.75",
+            "cu_weight": "12.6",
+            "cu_price": "630",
+            "plastic_weight": "10.149183",
+            "plastic_price": "81.193467",
+            "other_price": "102.799618",
+            "final_cost": "813.993085"
+        },
+        {
+            "specs": "18×1.0",
+            "cu_weight": "16.2",
+            "cu_price": "810",
+            "plastic_weight": "11.555514",
+            "plastic_price": "92.444112",
+            "other_price": "108.364796",
+            "final_cost": "1010.808908"
+        },
+        {
+            "specs": "18×1.5",
+            "cu_weight": "23.58",
+            "cu_price": "1179",
+            "plastic_weight": "13.030686",
+            "plastic_price": "104.245488",
+            "other_price": "129.954773",
+            "final_cost": "1413.200261"
+        },
+        {
+            "specs": "18×2.5",
+            "cu_weight": "38.52",
+            "cu_price": "1926",
+            "plastic_weight": "18.111834",
+            "plastic_price": "144.894672",
+            "other_price": "151.056811",
+            "final_cost": "2221.951483"
+        },
+        {
+            "specs": "18×4",
+            "cu_weight": "60.84",
+            "cu_price": "3042",
+            "plastic_weight": "21.246575",
+            "plastic_price": "169.972596",
+            "other_price": "167.877359",
+            "final_cost": "3379.849955"
+        },
+        {
+            "specs": "18×6",
+            "cu_weight": "92.979",
+            "cu_price": "4648.95",
+            "plastic_weight": "24.868941",
+            "plastic_price": "198.95153",
+            "other_price": "208.634527",
+            "final_cost": "5056.536058"
+        },
+        {
+            "specs": "19X0.5",
+            "cu_weight": "8.93",
+            "cu_price": "446.5",
+            "plastic_weight": "9.204345",
+            "plastic_price": "73.634758",
+            "other_price": "95.79024",
+            "final_cost": "615.924998"
+        },
+        {
+            "specs": "19×0.75",
+            "cu_weight": "13.3",
+            "cu_price": "665",
+            "plastic_weight": "10.713027",
+            "plastic_price": "85.704215",
+            "other_price": "102.23413",
+            "final_cost": "852.938345"
+        },
+        {
+            "specs": "19×1.0",
+            "cu_weight": "17.1",
+            "cu_price": "855",
+            "plastic_weight": "12.197487",
+            "plastic_price": "97.579896",
+            "other_price": "107.799308",
+            "final_cost": "1060.379204"
+        },
+        {
+            "specs": "19×1.5",
+            "cu_weight": "24.89",
+            "cu_price": "1244.5",
+            "plastic_weight": "13.754613",
+            "plastic_price": "110.036904",
+            "other_price": "127.692821",
+            "final_cost": "1482.229725"
+        },
+        {
+            "specs": "19×2.5",
+            "cu_weight": "40.66",
+            "cu_price": "2033",
+            "plastic_weight": "19.118047",
+            "plastic_price": "152.944376",
+            "other_price": "148.79486",
+            "final_cost": "2334.739236"
+        },
+        {
+            "specs": "19×4",
+            "cu_weight": "64.22",
+            "cu_price": "3211",
+            "plastic_weight": "22.42694",
+            "plastic_price": "179.415518",
+            "other_price": "165.615407",
+            "final_cost": "3556.030925"
+        },
+        {
+            "specs": "19×6",
+            "cu_weight": "98.1445",
+            "cu_price": "4907.225",
+            "plastic_weight": "26.250549",
+            "plastic_price": "210.004393",
+            "other_price": "203.545135",
+            "final_cost": "5320.774529"
+        },
+        {
+            "specs": "20X0.5",
+            "cu_weight": "9.4",
+            "cu_price": "470",
+            "plastic_weight": "9.688784",
+            "plastic_price": "77.510272",
+            "other_price": "97.793001",
+            "final_cost": "645.303273"
+        },
+        {
+            "specs": "20×0.75",
+            "cu_weight": "14",
+            "cu_price": "700",
+            "plastic_weight": "11.27687",
+            "plastic_price": "90.214963",
+            "other_price": "104.435363",
+            "final_cost": "894.650326"
+        },
+        {
+            "specs": "20×1.0",
+            "cu_weight": "18",
+            "cu_price": "900",
+            "plastic_weight": "12.83946",
+            "plastic_price": "102.71568",
+            "other_price": "110.171948",
+            "final_cost": "1112.887628"
+        },
+        {
+            "specs": "20×1.5",
+            "cu_weight": "26.2",
+            "cu_price": "1310",
+            "plastic_weight": "14.47854",
+            "plastic_price": "115.82832",
+            "other_price": "130.604103",
+            "final_cost": "1556.432423"
+        },
+        {
+            "specs": "20×2.5",
+            "cu_weight": "42.8",
+            "cu_price": "2140",
+            "plastic_weight": "20.12426",
+            "plastic_price": "160.99408",
+            "other_price": "152.294485",
+            "final_cost": "2453.288565"
+        },
+        {
+            "specs": "20×4",
+            "cu_weight": "67.6",
+            "cu_price": "3380",
+            "plastic_weight": "23.607305",
+            "plastic_price": "188.85844",
+            "other_price": "169.571505",
+            "final_cost": "3738.429945"
+        },
+        {
+            "specs": "20×6",
+            "cu_weight": "103.31",
+            "cu_price": "5165.5",
+            "plastic_weight": "27.632157",
+            "plastic_price": "221.057256",
+            "other_price": "208.524812",
+            "final_cost": "5595.082068"
+        },
+        {
+            "specs": "21×1",
+            "cu_weight": "18.9",
+            "cu_price": "945",
+            "plastic_weight": "13.481433",
+            "plastic_price": "107.851464",
+            "other_price": "124.9856",
+            "final_cost": "1177.837064"
+        },
+        {
+            "specs": "21×1.5",
+            "cu_weight": "27.51",
+            "cu_price": "1375.5",
+            "plastic_weight": "15.202467",
+            "plastic_price": "121.619736",
+            "other_price": "133.36415",
+            "final_cost": "1630.483886"
+        },
+        {
+            "specs": "21×2.5",
+            "cu_weight": "44.94",
+            "cu_price": "2247",
+            "plastic_weight": "21.130473",
+            "plastic_price": "169.043784",
+            "other_price": "155.612311",
+            "final_cost": "2571.656095"
+        },
+        {
+            "specs": "21×4",
+            "cu_weight": "70.98",
+            "cu_price": "3549",
+            "plastic_weight": "24.78767",
+            "plastic_price": "198.301362",
+            "other_price": "191.08363",
+            "final_cost": "3938.384992"
+        },
+        {
+            "specs": "21×6",
+            "cu_weight": "108.4755",
+            "cu_price": "5423.775",
+            "plastic_weight": "29.013765",
+            "plastic_price": "232.110119",
+            "other_price": "213.245804",
+            "final_cost": "5869.130923"
+        },
+        {
+            "specs": "22×1",
+            "cu_weight": "19.8",
+            "cu_price": "990",
+            "plastic_weight": "14.123406",
+            "plastic_price": "112.987248",
+            "other_price": "131.91503",
+            "final_cost": "1234.902278"
+        },
+        {
+            "specs": "22×1.5",
+            "cu_weight": "28.82",
+            "cu_price": "1441",
+            "plastic_weight": "15.926394",
+            "plastic_price": "127.411152",
+            "other_price": "140.925923",
+            "final_cost": "1709.337075"
+        },
+        {
+            "specs": "22×2.5",
+            "cu_weight": "47.08",
+            "cu_price": "2354",
+            "plastic_weight": "22.136686",
+            "plastic_price": "177.093488",
+            "other_price": "164.702247",
+            "final_cost": "2695.795735"
+        },
+        {
+            "specs": "22×4",
+            "cu_weight": "74.36",
+            "cu_price": "3718",
+            "plastic_weight": "25.968036",
+            "plastic_price": "207.744284",
+            "other_price": "202.496181",
+            "final_cost": "4128.240465"
+        },
+        {
+            "specs": "22×6",
+            "cu_weight": "113.641",
+            "cu_price": "5682.05",
+            "plastic_weight": "30.395373",
+            "plastic_price": "243.162982",
+            "other_price": "226.180029",
+            "final_cost": "6151.39301"
+        },
+        {
+            "specs": "23×1",
+            "cu_weight": "20.7",
+            "cu_price": "1035",
+            "plastic_weight": "14.765379",
+            "plastic_price": "118.123032",
+            "other_price": "141.636006",
+            "final_cost": "1294.759038"
+        },
+        {
+            "specs": "23×1.5",
+            "cu_weight": "30.13",
+            "cu_price": "1506.5",
+            "plastic_weight": "16.650321",
+            "plastic_price": "133.202568",
+            "other_price": "151.121156",
+            "final_cost": "1790.823724"
+        },
+        {
+            "specs": "23×2.5",
+            "cu_weight": "49.22",
+            "cu_price": "2461",
+            "plastic_weight": "23.142899",
+            "plastic_price": "185.143192",
+            "other_price": "176.043603",
+            "final_cost": "2822.186795"
+        },
+        {
+            "specs": "23×4",
+            "cu_weight": "77.74",
+            "cu_price": "3887",
+            "plastic_weight": "27.148401",
+            "plastic_price": "217.187206",
+            "other_price": "221.234379",
+            "final_cost": "4325.421585"
+        },
+        {
+            "specs": "23×6",
+            "cu_weight": "118.8065",
+            "cu_price": "5940.325",
+            "plastic_weight": "31.776981",
+            "plastic_price": "254.215844",
+            "other_price": "246.059481",
+            "final_cost": "6440.600326"
+        },
+        {
+            "specs": "24×1",
+            "cu_weight": "21.6",
+            "cu_price": "1080",
+            "plastic_weight": "15.407352",
+            "plastic_price": "123.258816",
+            "other_price": "141.636006",
+            "final_cost": "1344.894822"
+        },
+        {
+            "specs": "24×1.5",
+            "cu_weight": "31.44",
+            "cu_price": "1572",
+            "plastic_weight": "17.374248",
+            "plastic_price": "138.993984",
+            "other_price": "151.121156",
+            "final_cost": "1862.11514"
+        },
+        {
+            "specs": "24×2.5",
+            "cu_weight": "51.36",
+            "cu_price": "2568",
+            "plastic_weight": "24.149112",
+            "plastic_price": "193.192896",
+            "other_price": "176.043603",
+            "final_cost": "2937.236499"
+        },
+        {
+            "specs": "24×4",
+            "cu_weight": "81.12",
+            "cu_price": "4056",
+            "plastic_weight": "28.328766",
+            "plastic_price": "226.630128",
+            "other_price": "221.234379",
+            "final_cost": "4503.864507"
+        },
+        {
+            "specs": "24×6",
+            "cu_weight": "123.972",
+            "cu_price": "6198.6",
+            "plastic_weight": "33.158588",
+            "plastic_price": "265.268707",
+            "other_price": "246.059481",
+            "final_cost": "6709.928189"
+        },
+        {
+            "specs": "25×1",
+            "cu_weight": "22.5",
+            "cu_price": "1125",
+            "plastic_weight": "16.049325",
+            "plastic_price": "128.3946",
+            "other_price": "141.636006",
+            "final_cost": "1395.030606"
+        },
+        {
+            "specs": "25×1.5",
+            "cu_weight": "32.75",
+            "cu_price": "1637.5",
+            "plastic_weight": "18.098175",
+            "plastic_price": "144.7854",
+            "other_price": "151.121156",
+            "final_cost": "1933.406556"
+        },
+        {
+            "specs": "25×2.5",
+            "cu_weight": "53.5",
+            "cu_price": "2675",
+            "plastic_weight": "25.155325",
+            "plastic_price": "201.2426",
+            "other_price": "176.043603",
+            "final_cost": "3052.286203"
+        },
+        {
+            "specs": "25×4",
+            "cu_weight": "84.5",
+            "cu_price": "4225",
+            "plastic_weight": "29.509131",
+            "plastic_price": "236.07305",
+            "other_price": "221.234379",
+            "final_cost": "4682.307429"
+        },
+        {
+            "specs": "25×6",
+            "cu_weight": "129.1375",
+            "cu_price": "6456.875",
+            "plastic_weight": "34.540196",
+            "plastic_price": "276.32157",
+            "other_price": "246.059481",
+            "final_cost": "6979.256051"
+        }
+    ]
+}
