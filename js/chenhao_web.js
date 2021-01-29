@@ -97,8 +97,7 @@ $(document).ready(function () {
         let type = $("#type_select_query option:selected").text();
         //type = type.toLowerCase();
         if(type != "选择型号"){
-            // $.getJSON("./json/" + type + ".json", function (data) {
-            $.getJSON("https://github.com/weekdawn/chenhao_web/blob/master/json/" + type + ".json", function (data) {
+            $.getJSON("./json/" + type + ".json", function (data) {
                 $.each(data, function (i, item) {
                     $.each(item, function (j, i_item) {
                         let specs = i_item["specs"];
