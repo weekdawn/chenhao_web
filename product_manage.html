@@ -92,24 +92,29 @@
 
         //计算按键的操作
         $("#calculate").click(function () {
+            calculate();
+        });
+
+        //回车触发计算
+        $("#cu_price_rate").keydown(function(e){
+            if(e.keyCode == 13){
+                calculate();
+            }
+        });
+        //回车触发计算
+        $("#plastic_price_rate").keydown(function(e){
+            if(e.keyCode == 13){
+                calculate();
+            }
+        });
+
+        function calculate() {
             $("#datalist").empty();
             let cu_price_rate = $("#cu_price_rate").val();
             let plastic_price_rate = $("#plastic_price_rate").val();
             show_table(cu_price_rate, plastic_price_rate);
-        });
-
-        //回车触发计算
-        $("#price_rate").keydown(function(e){
-            if(e.keyCode == 13){
-                $("#calculate").click(function () {
-                $("#datalist").empty();
-                let cu_price_rate = $("#cu_price_rate").val();
-                let plastic_price_rate = $("#plastic_price_rate").val();
-                show_table(cu_price_rate, plastic_price_rate);
-            });
-            }
-        });
-
+        }
+        
         function getType() {
             let types = [
                 "RVV",
